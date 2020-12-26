@@ -1,0 +1,2 @@
+01;tasa;3;TASA 3%
+02;tasa;6;TASA 6%

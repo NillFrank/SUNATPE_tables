@@ -1,0 +1,16 @@
+00;item;si;global;no;Descuentos que afectan la base imponible del IGV/IVAP
+01;item;si;global;no;Descuentos que no afectan la base imponible del IGV/IVAP
+02;item;no;global;si;Descuentos globales que afectan la base imponible del IGV/IVAP
+03;item;no;global;si;Descuentos globales que no afectan la base imponible del IGV/IVAP
+04;item;no;global;si;Descuentos globales por anticipos que afectan la base imponible del IGV/IVAP
+05;item;no;global;si;Descuentos globales por anticipos exonerados
+06;item;no;global;si;Descuentos globales por anticipos inafectos
+45;item;no;global;si;FISE
+46;item;no;global;si;Recargo al consumo y/o propinas
+47;item;si;global;no;Cargos que afectan la base imponible del IGV
+48;item;si;global;no;Cargos que no afectan la base imponible del IGV
+49;item;no;global;si;Cargos globales que afectan la base imponible del IGV
+50;item;no;global;si;Cargos globales que no afectan la base imponible del IGV
+51;item;no;global;si;Percepción venta interna
+52;item;no;global;si;Percepción a la adquisición de combustible
+53;item;no;global;si;Percepción realizada al agente de percepción con tasa especial

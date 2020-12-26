@@ -1,0 +1,21 @@
+0101;factura;1;boleta;1;Venta interna
+0112;factura;1;boleta;0;Venta Interna - Sustenta Gastos Deducibles Persona Natural
+0113;factura;0;boleta;1;Venta Interna - NRUS
+0200;factura;1;boleta;1;Exportación de Bienes
+0201;factura;1;boleta;1;Exportación de Servicios – Prestación servicios realizados íntegramente en el país
+0202;factura;1;boleta;1;Exportación de Servicios – Prestación de servicios de hospedaje No Domiciliado
+0203;factura;1;boleta;1;Exportación de Servicios – Transporte de navieras
+0204;factura;1;boleta;1;Exportación de Servicios – Servicios  a naves y aeronaves de bandera extranjera
+0205;factura;1;boleta;1;Exportación de Servicios  - Servicios que conformen un Paquete Turístico
+0206;factura;1;boleta;1;Exportación de Servicios – Servicios complementarios al transporte de carga
+0207;factura;1;boleta;1;Exportación de Servicios – Suministro de energía eléctrica a favor de sujetos domiciliados en ZED
+0208;factura;1;boleta;1;Exportación de Servicios – Prestación servicios realizados parcialmente en el extranjero
+0301;factura;1;boleta;1;Operaciones con Carta de porte aéreo (emitidas en el ámbito nacional)
+0302;factura;1;boleta;1;Operaciones de Transporte ferroviario de pasajeros
+0303;factura;1;boleta;1;Operaciones de Pago de regalía petrolera
+0401;factura;1;boleta;1;Ventas no domiciliados que no califican como exportacion
+1001;factura;1;boleta;1;Operación Sujeta a Detracción
+1002;factura;1;boleta;1;Operación Sujeta a Detracción- Recursos Hidrobiológicos
+1003;factura;1;boleta;1;Operación Sujeta a Detracción- Servicios de Transporte Pasajeros
+1004;factura;1;boleta;1;Operación Sujeta a Detracción- Servicios de Transporte Carga
+2001;factura;1;boleta;1;Operación Sujeta a Percepción

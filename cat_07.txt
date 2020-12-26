@@ -1,0 +1,19 @@
+10;igv;1;Gravado - Operación Onerosa
+11;gra;1;Gravado – Retiro por premio
+12;gra;1;Gravado – Retiro por donación
+13;gra;1;Gravado – Retiro 
+14;gra;1;Gravado – Retiro por publicidad
+15;gra;1;Gravado – Bonificaciones
+16;gra;1;Gravado – Retiro por entrega a trabajadores
+20;exo;1;Exonerado - Operación Onerosa
+21;gra;1;Exonerado - Transferencia gratuita
+30;ina;1;Inafecto - Operación Onerosa
+31;gra;1;Inafecto – Retiro por Bonificación
+32;gra;1;Inafecto – Retiro
+33;gra;1;Inafecto – Retiro por Muestras Médicas
+34;gra;1;Inafecto - Retiro por Convenio Colectivo
+35;gra;1;Inafecto – Retiro por premio
+36;gra;1;Inafecto - Retiro por publicidad
+37;gra;1;Inafecto - Transferencia gratuita
+17;iva;1;gra;1;Gravado - IVAP
+40;exp;1;gra;1;Exportación

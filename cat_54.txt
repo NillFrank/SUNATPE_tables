@@ -1,0 +1,34 @@
+001;tasa;10;Azúcar y melaza de caña
+002;tasa;10;Arroz
+003;tasa;10;Alcohol etílico
+004;tasa;4;Recursos hidrobiológicos
+005;tasa;4;Maíz amarillo duro
+007;tasa;10;Caña de azúcar
+008;tasa;4;Madera
+009;tasa;10;Arena y piedra.
+010;tasa;15;Residuos, subproductos, desechos, recortes y desperdicios
+011;tasa;15;Bienes gravados con el IGV, o renuncia a la exoneración
+012;tasa;10;Intermediación laboral y tercerización
+013;tasa;10;Animales vivos
+014;tasa;4;Carnes y despojos comestibles
+015;tasa;10;Abonos, cueros y pieles de origen animal
+016;tasa;4;Aceite de pescado
+017;tasa;4;Harina, polvo y “pellets” de pescado, crustáceos, moluscos y demás invertebrados acuáticos
+019;tasa;10;Arrendamiento de bienes muebles
+020;tasa;10;Mantenimiento y reparación de bienes muebles
+021;tasa;10;Movimiento de carga
+022;tasa;10;Otros servicios empresariales
+023;tasa;10;Leche
+024;tasa;10;Comisión mercantil
+025;tasa;10;Fabricación de bienes por encargo
+026;tasa;10;Servicio de transporte de personas
+027;tasa;4;Servicio de transporte de carga
+028;tasa;4;Transporte de pasajeros
+030;tasa;4;Contratos de construcción
+031;tasa;10;Oro gravado con el IGV
+034;tasa;10;Minerales metálicos no auríferos
+035;tasa;1.5;Bienes exonerados del IGV
+036;tasa;1.5;Oro y demás minerales metálicos exonerados del IGV
+037;tasa;10;Demás servicios gravados con el IGV
+039;tasa;10;Minerales no metálicos
+040;tasa;4;Bien inmueble gravado con IGV

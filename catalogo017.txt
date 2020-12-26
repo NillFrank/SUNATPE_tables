@@ -1,0 +1,11 @@
+01;Venta lnterna
+02;Exportacion
+03;No Domiciliados
+04;Venta Interna – Anticipos
+05;Venta Itinerante
+06;Factura Guia
+07;Venta de Combustible liquido
+08;Mantenimiento de vehiculos
+09;Venta Arroz Pilado
+10;Emision en el local del cliente
+11;Factura – Comprobante de percepcion
